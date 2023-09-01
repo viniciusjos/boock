@@ -1,0 +1,14 @@
+.cabeçalho_menu-amburgue{
+    width: 24px;
+    height: 24px;
+    background-image: url(¨../img/menu.svg);
+    background-repeat: no-repeat;
+    background-image: center;
+    display: inline-block;
+}
+
+.cabeçalho{
+
+    background-color: var(--branco );
+    display: flex;
+}
